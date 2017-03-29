@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1af3e62-2783-4344-93e1-caa5a042c924" name="Default" comment="" />
+    <ignored path="kimai.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kimai" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="processor.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/extensions/ki_timesheets/processor.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="424" column="23" selection-start-line="424" selection-start-column="19" selection-end-line="424" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mysql.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/Kimai/Database/Mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="880">
+              <caret line="56" column="26" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="26" />
+              <folding>
+                <marker date="1489460876959" expanded="true" signature="40304:40630" ph="SELECT proje... $" />
+                <marker date="1489460876959" expanded="true" signature="44681:44920" ph="SELECT activ... $" />
+                <marker date="1489460876959" expanded="true" signature="45635:45836" ph="SELECT activ... $" />
+                <marker date="1489460876959" expanded="true" signature="59048:59094" ph="DELETE FROM " />
+                <marker date="1489460876959" expanded="true" signature="60018:60083" ph="SELECT `valu... ${$table}" />
+                <marker date="1489460876959" expanded="true" signature="61173:61261" ph="SELECT `opti... ${$table}" />
+                <marker date="1489460876959" expanded="true" signature="62404:62481" ph="SELECT `opti... ${$table}" />
+                <marker date="1489460876959" expanded="true" signature="74732:74811" ph="SELECT timeE... ${$table}" />
+                <marker date="1489460876959" expanded="true" signature="75601:75942" ph="SELECT ${$ta... ${$table}" />
+                <marker date="1489460876959" expanded="true" signature="76834:77184" ph="SELECT ${$ta... ${$table}" />
+                <marker date="1489460876959" expanded="true" signature="85808:86046" ph="SELECT proje... $" />
+                <marker date="1489460876959" expanded="true" signature="86088:86480" ph="SELECT DISTI... $" />
+                <marker date="1489460876959" expanded="true" signature="88613:88971" ph="SELECT proje... $" />
+                <marker date="1489460876959" expanded="true" signature="89019:89534" ph="SELECT DISTI... $" />
+                <marker date="1489460876959" expanded="true" signature="99380:99463" ph="SELECT custo... $" />
+                <marker date="1489460876959" expanded="true" signature="99839:99931" ph="SELECT userI... $" />
+                <marker date="1489460876959" expanded="true" signature="107155:107224" ph="SELECT custo... $" />
+                <marker date="1489460876959" expanded="true" signature="108600:108840" ph="SELECT start... " />
+                <marker date="1489460876959" expanded="true" signature="110366:110510" ph="SELECT custo... $" />
+                <marker date="1489460876959" expanded="true" signature="110553:110839" ph="SELECT DISTI... $" />
+                <marker date="1489460876959" expanded="true" signature="111904:112040" ph="SELECT activ... $" />
+                <marker date="1489460876959" expanded="true" signature="112083:112361" ph="SELECT DISTI... $" />
+                <marker date="1489460876959" expanded="true" signature="113920:114229" ph="SELECT activ... $" />
+                <marker date="1489460876959" expanded="true" signature="114272:114732" ph="SELECT DISTI... $" />
+                <marker date="1489460876959" expanded="true" signature="116001:116283" ph="SELECT DISTI... $" />
+                <marker date="1489460876959" expanded="true" signature="117558:117635" ph="SELECT timeE... $" />
+                <marker date="1489460876959" expanded="true" signature="121177:121259" ph="SELECT statu... $" />
+                <marker date="1489460876959" expanded="true" signature="121839:121889" ph="SELECT * FRO... $" />
+                <marker date="1489460876959" expanded="true" signature="123346:123436" ph="SELECT * FRO... $" />
+                <marker date="1489460876959" expanded="true" signature="123480:123712" ph="SELECT DISTI... $" />
+                <marker date="1489460876959" expanded="true" signature="125675:125726" ph="SELECT * FRO... $" />
+                <marker date="1489460876959" expanded="true" signature="132871:132952" ph="SELECT start... $" />
+                <marker date="1489460876959" expanded="true" signature="134528:134598" ph="SELECT * FRO... $" />
+                <marker date="1489460876959" expanded="true" signature="135585:135795" ph="SELECT * FRO... $" />
+                <marker date="1489460876959" expanded="true" signature="137798:138223" ph="SELECT start... " />
+                <marker date="1489460876959" expanded="true" signature="141231:141453" ph="SELECT start... " />
+                <marker date="1489460876959" expanded="true" signature="144582:144791" ph="SELECT start... " />
+                <marker date="1489460876959" expanded="true" signature="147906:148169" ph="SELECT start... " />
+                <marker date="1489460876959" expanded="true" signature="150961:151058" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}rates... " />
+                <marker date="1489460876959" expanded="true" signature="152286:152544" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+                <marker date="1489460876959" expanded="true" signature="153458:153711" ph="DELETE FROM " />
+                <marker date="1489460876959" expanded="true" signature="154686:154973" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+                <marker date="1489460876959" expanded="true" signature="156141:156447" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+                <marker date="1489460876959" expanded="true" signature="157372:157468" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}fixedRates... " />
+                <marker date="1489460876959" expanded="true" signature="158497:158669" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+                <marker date="1489460876959" expanded="true" signature="160155:160356" ph="SELECT budge... ${$this-&gt;kga['server_prefix']}" />
+                <marker date="1489460876959" expanded="true" signature="161787:161954" ph="DELETE FROM " />
+                <marker date="1489460876959" expanded="true" signature="162821:163086" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+                <marker date="1489460876959" expanded="true" signature="163988:164232" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+                <marker date="1489460876959" expanded="true" signature="164821:164943" ph="UPDATE ${${p... " />
+                <marker date="1489460876959" expanded="true" signature="165359:165460" ph="UPDATE ${${p... " />
+                <marker date="1489460876959" expanded="true" signature="174562:174703" ph="SELECT a.*, ${${p}}globalRoles" />
+                <marker date="1489460876959" expanded="true" signature="178338:178501" ph="SELECT a.*, ${${p}}membershipRoles" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checkupdate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/checkupdate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mysql.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/phpclasses/ultimatemysql/mysql.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24266">
+              <caret line="1103" column="31" selection-start-line="1103" selection-start-column="31" selection-end-line="1103" selection-end-column="31" />
+              <folding>
+                <marker date="1471885418000" expanded="true" signature="6154:6186" ph="DELETE FROM " />
+                <marker date="1471885418000" expanded="true" signature="6936:7018" ph="INSERT INTO `${$tableName}`... " />
+                <marker date="1471885418000" expanded="true" signature="15766:15802" ph="SELECT * FRO... ${$table}" />
+                <marker date="1471885418000" expanded="true" signature="20015:20051" ph="SELECT * FRO... ${$table}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autoconf.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/autoconf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="22" column="16" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basics.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/basics.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vars.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/vars.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="processor.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extensions/ki_adminpanel/processor.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10318">
+              <caret line="485" column="22" selection-start-line="485" selection-start-column="22" selection-end-line="485" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updater.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/updater/updater.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5434">
+              <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+              <folding>
+                <marker date="1471885428000" expanded="true" signature="5359:5369" ph="..." />
+                <marker date="1471885428000" expanded="true" signature="5611:5650" ph="CREATE TABLE... ${$backupTable}" />
+                <marker date="1471885428000" expanded="true" signature="5718:5765" ph="INSERT INTO ${$backupTable}... " />
+                <marker date="1471885428000" expanded="true" signature="5751:5765" ph="SELECT * FRO... ${$row[0]}" />
+                <marker date="1471885428000" expanded="true" signature="6132:6142" ph="..." />
+                <marker date="1471885428000" expanded="true" signature="6781:6869" ph="ALTER TABLE `${${p}}evt`... " />
+                <marker date="1471885428000" expanded="true" signature="6893:6981" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="7005:7093" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="7117:7203" ph="ALTER TABLE `${${p}}evt`... " />
+                <marker date="1471885428000" expanded="true" signature="7227:7313" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="7337:7423" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="7448:7540" ph="ALTER TABLE `${${p}}evt`... " />
+                <marker date="1471885428000" expanded="true" signature="7565:7657" ph="ALTER TABLE `${${p}}grp`... " />
+                <marker date="1471885428000" expanded="true" signature="7681:7720" ph="ALTER TABLE `${${p}}grp`... " />
+                <marker date="1471885428000" expanded="true" signature="7745:7835" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="7860:7941" ph="ALTER TABLE `${${p}}ldr`... " />
+                <marker date="1471885428000" expanded="true" signature="7966:8056" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="8081:8124" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="8148:8193" ph="ALTER TABLE `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="8218:8308" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="8413:8489" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="8593:8660" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="8764:8813" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="8836:8888" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="8992:9042" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="9146:9304" ph="CREATE TABLE... ${${p}}rates" />
+                <marker date="1471885428000" expanded="true" signature="9328:9402" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="9507:9560" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="9584:9655" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="9760:10186" ph="CREATE TABLE... ${${p}}exp" />
+                <marker date="1471885428000" expanded="true" signature="10743:10749" ph=" " />
+                <marker date="1471885428000" expanded="true" signature="10749:10755" ph=" " />
+                <marker date="1471885428000" expanded="true" signature="10939:10960" ph="SELECT * FRO... $" />
+                <marker date="1471885428000" expanded="true" signature="11175:11288" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="11506:11600" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="11704:11778" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="11798:11867" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="11887:11951" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="11971:12050" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="12153:12227" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="12330:12398" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="12501:12577" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="12680:12719" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="12822:12890" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="12910:12975" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="12995:13065" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13085:13153" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13173:13241" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13261:13335" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13355:13421" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13441:13509" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13529:13596" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13699:13771" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13791:13861" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13881:13953" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="13973:14026" ph="DELETE FROM " />
+                <marker date="1471885428000" expanded="true" signature="14129:14202" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="14305:14362" ph="ALTER TABLE `${${p}}grp_evt`... " />
+                <marker date="1471885428000" expanded="true" signature="14383:14440" ph="ALTER TABLE `${${p}}grp_knd`... " />
+                <marker date="1471885428000" expanded="true" signature="14461:14518" ph="ALTER TABLE `${${p}}grp_pct`... " />
+                <marker date="1471885428000" expanded="true" signature="14539:14596" ph="ALTER TABLE `${${p}}ldr`... " />
+                <marker date="1471885428000" expanded="true" signature="14700:14759" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="14779:14862" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="14965:15034" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="15137:15203" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="15306:15372" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="15475:15522" ph="ALTER TABLE `${${p}}exp`... " />
+                <marker date="1471885428000" expanded="true" signature="15543:15590" ph="ALTER TABLE `${${p}}exp`... " />
+                <marker date="1471885428000" expanded="true" signature="15611:15658" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="15679:15726" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="15747:15794" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="15815:15862" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="15966:16051" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="16154:16222" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="16325:16474" ph="CREATE TABLE... ${${p}}pct_evt" />
+                <marker date="1471885428000" expanded="true" signature="16578:16649" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="16752:16819" ph="ALTER TABLE `${${p}}exp`... " />
+                <marker date="1471885428000" expanded="true" signature="16922:16959" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="16979:17016" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="17036:17073" ph="ALTER TABLE `${${p}}evt`... " />
+                <marker date="1471885428000" expanded="true" signature="17176:17345" ph="ALTER TABLE `${${p}}exp`... " />
+                <marker date="1471885428000" expanded="true" signature="17501:17571" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="17591:17625" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="17654:17728" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="17831:17981" ph="CREATE TABLE... ${${p}}preferences" />
+                <marker date="1471885428000" expanded="true" signature="18345:18453" ph="INSERT INTO $... " />
+                <marker date="1471885428000" expanded="true" signature="18723:18748" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="18864:18923" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="18943:19006" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="19109:19184" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="19287:19359" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="19462:19521" ph="INSERT INTO $... " />
+                <marker date="1471885428000" expanded="true" signature="19624:19684" ph="INSERT INTO $... " />
+                <marker date="1471885428000" expanded="true" signature="19787:20017" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="20120:20220" ph="ALTER TABLE `${${p}}exp`... " />
+                <marker date="1471885428000" expanded="true" signature="20356:20465" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="20690:20725" ph="SELECT knd_I... $" />
+                <marker date="1471885428000" expanded="true" signature="20931:21027" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="21113:21148" ph="SELECT pct_I... $" />
+                <marker date="1471885428000" expanded="true" signature="21351:21447" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="21532:21567" ph="SELECT evt_I... $" />
+                <marker date="1471885428000" expanded="true" signature="21764:21848" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="21936:21971" ph="SELECT usr_I... $" />
+                <marker date="1471885428000" expanded="true" signature="22165:22249" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="22336:22371" ph="SELECT grp_I... $" />
+                <marker date="1471885428000" expanded="true" signature="22568:22652" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="22818:22877" ph="INSERT INTO $... " />
+                <marker date="1471885428000" expanded="true" signature="22999:23054" ph="SELECT value... $" />
+                <marker date="1471885428000" expanded="true" signature="23118:23194" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="23223:23283" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="23386:23431" ph="DELETE FROM " />
+                <marker date="1471885428000" expanded="true" signature="23535:23614" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="23654:23693" ph="SELECT DISTI... $" />
+                <marker date="1471885428000" expanded="true" signature="23749:23798" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="23923:24055" ph="CREATE TABLE... ${${p}}fixed_rates" />
+                <marker date="1471885428000" expanded="true" signature="24099:24184" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="24294:24427" ph="CREATE TABLE... ${${p}}grp_usr" />
+                <marker date="1471885428000" expanded="true" signature="24491:24525" ph="SELECT usr_I... $" />
+                <marker date="1471885428000" expanded="true" signature="24581:24686" ph="INSERT INTO ${$p}grp_usr... " />
+                <marker date="1471885428000" expanded="true" signature="24714:24748" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="24852:25000" ph="ALTER TABLE `${${p}}pct_evt`... " />
+                <marker date="1471885428000" expanded="true" signature="25023:25164" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="25186:25276" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="25297:25433" ph="CREATE TABLE... ${${p}}status" />
+                <marker date="1471885428000" expanded="true" signature="25455:25558" ph="INSERT INTO `${${p}}status`... " />
+                <marker date="1471885428000" expanded="true" signature="25580:25725" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="25748:25862" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="25884:25939" ph="UPDATE ${${p... " />
+                <marker date="1471885428000" expanded="true" signature="25960:26037" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="26059:26126" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="26148:26215" ph="INSERT INTO `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="26237:26281" ph="DELETE FROM " />
+                <marker date="1471885428000" expanded="true" signature="26385:26460" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="26480:26523" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="26725:26795" ph="ALTER TABLE ${${p}}evt" />
+                <marker date="1471885428000" expanded="true" signature="26823:26893" ph="ALTER TABLE ${${p}}evt" />
+                <marker date="1471885428000" expanded="true" signature="26921:26991" ph="ALTER TABLE ${${p}}evt" />
+                <marker date="1471885428000" expanded="true" signature="27020:27725" ph="ALTER TABLE `${${p}}evt`... " />
+                <marker date="1471885428000" expanded="true" signature="27748:28608" ph="ALTER TABLE `${${p}}exp`... " />
+                <marker date="1471885428000" expanded="true" signature="28631:28797" ph="ALTER TABLE `${${p}}fixed_rates`... " />
+                <marker date="1471885428000" expanded="true" signature="28820:29040" ph="ALTER TABLE `${${p}}grp`... " />
+                <marker date="1471885428000" expanded="true" signature="29063:29108" ph="ALTER TABLE `${${p}}grp_evt`... " />
+                <marker date="1471885428000" expanded="true" signature="29136:29290" ph="ALTER TABLE `${${p}}grp_evt`... " />
+                <marker date="1471885428000" expanded="true" signature="29367:29412" ph="ALTER TABLE `${${p}}grp_knd`... " />
+                <marker date="1471885428000" expanded="true" signature="29440:29593" ph="ALTER TABLE `${${p}}grp_knd`... " />
+                <marker date="1471885428000" expanded="true" signature="29670:29715" ph="ALTER TABLE `${${p}}grp_pct`... " />
+                <marker date="1471885428000" expanded="true" signature="29743:29894" ph="ALTER TABLE `${${p}}grp_pct`... " />
+                <marker date="1471885428000" expanded="true" signature="29970:30114" ph="ALTER TABLE `${${p}}grp_usr`... " />
+                <marker date="1471885428000" expanded="true" signature="30137:31391" ph="ALTER TABLE `${${p}}knd`... " />
+                <marker date="1471885428000" expanded="true" signature="31414:31563" ph="ALTER TABLE `${${p}}ldr`... " />
+                <marker date="1471885428000" expanded="true" signature="31636:32382" ph="ALTER TABLE `${${p}}pct`... " />
+                <marker date="1471885428000" expanded="true" signature="32454:32525" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="32546:32902" ph="ALTER TABLE `${${p}}pct_evt`... " />
+                <marker date="1471885428000" expanded="true" signature="32981:33054" ph="ALTER TABLE `${${p}}preferences`... " />
+                <marker date="1471885428000" expanded="true" signature="33077:33264" ph="ALTER TABLE `${${p}}rates`... " />
+                <marker date="1471885428000" expanded="true" signature="33287:33402" ph="ALTER TABLE `${${p}}status`... " />
+                <marker date="1471885428000" expanded="true" signature="33425:34561" ph="ALTER TABLE `${${p}}usr`... " />
+                <marker date="1471885428000" expanded="true" signature="34661:34757" ph="ALTER TABLE `${${p}}var`... " />
+                <marker date="1471885428000" expanded="true" signature="34780:34880" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="34906:36449" ph="ALTER TABLE `${${p}}zef`... " />
+                <marker date="1471885428000" expanded="true" signature="36573:36645" ph="SELECT `valu... $" />
+                <marker date="1471885428000" expanded="true" signature="37311:37375" ph="DELETE FROM " />
+                <marker date="1471885428000" expanded="true" signature="37941:37969" ph="ALTER TABLE `${${p}}activities`... " />
+                <marker date="1471885428000" expanded="true" signature="38127:38186" ph="ALTER TABLE `${${p}}users`... " />
+                <marker date="1471885428000" expanded="true" signature="38290:38336" ph="ALTER TABLE `${${p}}activities`... " />
+                <marker date="1471885428000" expanded="true" signature="38556:38626" ph="ALTER TABLE `${${p}}groups_users`... " />
+                <marker date="1471885428000" expanded="true" signature="38668:38760" ph="ALTER TABLE `${${p}}groups_users`... " />
+                <marker date="1471885428000" expanded="true" signature="38841:38900" ph="ALTER TABLE `${${p}}users`... " />
+                <marker date="1471885428000" expanded="true" signature="38938:39015" ph="ALTER TABLE `${${p}}users`... " />
+                <marker date="1471885428000" expanded="true" signature="39036:39156" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="39077:39140" ph="SELECT globa... ${${p}}globalRoles" />
+                <marker date="1471885428000" expanded="true" signature="39206:39407" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="39254:39331" ph="SELECT membe... ${${p}}membershipRoles" />
+                <marker date="1471885428000" expanded="true" signature="39360:39406" ph="SELECT group... ${${p}}groupleaders" />
+                <marker date="1471885428000" expanded="true" signature="39450:39634" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="39498:39569" ph="SELECT membe... ${${p}}membershipRoles" />
+                <marker date="1471885428000" expanded="true" signature="39588:39633" ph="SELECT userI... ${${p}}users" />
+                <marker date="1471885428000" expanded="true" signature="39826:39908" ph="ALTER TABLE `${${p}}globalRoles`... " />
+                <marker date="1471885428000" expanded="true" signature="39933:40049" ph="ALTER TABLE `${${p}}globalRoles`... " />
+                <marker date="1471885428000" expanded="true" signature="40077:40106" ph="DROP TABLE `... " />
+                <marker date="1471885428000" expanded="true" signature="40380:40453" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="40557:40632" ph="ALTER TABLE `${${p}}rates`... " />
+                <marker date="1471885428000" expanded="true" signature="40736:40818" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="41679:41740" ph="INSERT INTO `${${p}}configuration`... " />
+                <marker date="1471885428000" expanded="true" signature="42300:42363" ph="ALTER TABLE `${${p}}expenses`... " />
+                <marker date="1471885428000" expanded="true" signature="42391:42457" ph="ALTER TABLE `${${p}}expenses`... " />
+                <marker date="1471885428000" expanded="true" signature="42485:42565" ph="ALTER TABLE `${${p}}fixedRates`... " />
+                <marker date="1471885428000" expanded="true" signature="42784:42862" ph="ALTER TABLE `${${p}}groups_activities`... " />
+                <marker date="1471885428000" expanded="true" signature="42890:42968" ph="ALTER TABLE `${${p}}groups_customers`... " />
+                <marker date="1471885428000" expanded="true" signature="42996:43073" ph="ALTER TABLE `${${p}}groups_projects`... " />
+                <marker date="1471885428000" expanded="true" signature="43101:43175" ph="ALTER TABLE `${${p}}groups_users`... " />
+                <marker date="1471885428000" expanded="true" signature="43502:43569" ph="ALTER TABLE `${${p}}projects`... " />
+                <marker date="1471885428000" expanded="true" signature="43597:43677" ph="ALTER TABLE `${${p}}projects_activities`... " />
+                <marker date="1471885428000" expanded="true" signature="43705:43795" ph="ALTER TABLE `${${p}}rates`... " />
+                <marker date="1471885428000" expanded="true" signature="44111:44159" ph="ALTER TABLE `${${p}}timesheet`... " />
+                <marker date="1471885428000" expanded="true" signature="44186:44234" ph="ALTER TABLE `${${p}}timeSheet`... " />
+                <marker date="1471885428000" expanded="true" signature="44262:44310" ph="ALTER TABLE `${${p}}timesheet`... " />
+                <marker date="1471885428000" expanded="true" signature="44337:44388" ph="ALTER TABLE `${${p}}timeSheet`... " />
+                <marker date="1471885428000" expanded="true" signature="44416:44464" ph="ALTER TABLE `${${p}}timesheet`... " />
+                <marker date="1471885428000" expanded="true" signature="44491:44543" ph="ALTER TABLE `${${p}}timeSheet`... " />
+                <marker date="1471885428000" expanded="true" signature="44694:44741" ph="ALTER TABLE `${${p}}users`... " />
+                <marker date="1471885428000" expanded="true" signature="44769:44818" ph="ALTER TABLE `${${p}}users`... " />
+                <marker date="1471885428000" expanded="true" signature="44847:44951" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="45254:45330" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="45351:45433" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="45537:45599" ph="INSERT INTO `${${p}}configuration`... " />
+                <marker date="1471885428000" expanded="true" signature="45703:45799" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="45819:45919" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46049:46111" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46132:46202" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46223:46285" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46306:46376" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46397:46465" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46485:46555" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46576:46640" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46661:46727" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46748:46810" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46831:46899" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="46920:46984" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="47005:47077" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="47103:47164" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="47185:47268" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="47294:47357" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="47461:47522" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="47626:47709" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="47729:47811" ph="INSERT INTO `${${p}}configuration`... " />
+                <marker date="1471885428000" expanded="true" signature="47941:48029" ph="ALTER TABLE $... " />
+                <marker date="1471885428000" expanded="true" signature="48350:48420" ph="UPDATE `${${... " />
+                <marker date="1471885428000" expanded="true" signature="48492:48563" ph="UPDATE `${${... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/version.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/libraries/Kimai/Database/Mysql.php" />
+        <option value="$PROJECT_DIR$/includes/vars.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" ignore_connections_through_unregistered_servers="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="74198b37-ac91-4db9-9e00-77d8f5bc79c6" name="Unnamed" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kimai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kimai" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kimai" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../msd_python" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1af3e62-2783-4344-93e1-caa5a042c924" name="Default" comment="" />
+      <created>1489459777776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489459777776</updated>
+      <workItem from="1489459779133" duration="2533000" />
+      <workItem from="1489543165447" duration="805000" />
+      <workItem from="1489565459169" duration="1198000" />
+      <workItem from="1489631719416" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4562000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16641222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26350245" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14729951" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/processor.php</url>
+          <line>48</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/extensions/ki_timesheets/floaters.php</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/extensions/ki_timesheets/processor.php</url>
+          <line>418</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/extensions/ki_timesheets/processor.php</url>
+          <line>547</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/libraries/Kimai/Database/Mysql.php</url>
+          <line>2394</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/libraries/Kimai/Database/Mysql.php</url>
+          <line>2398</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="processor.php">
+        <watch expression="$_REQUEST" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/extensions/ki_timesheets/processor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/Kimai/Database/Mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="26" />
+          <folding>
+            <marker date="1489460876959" expanded="true" signature="40304:40630" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="44681:44920" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="45635:45836" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="59048:59094" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="60018:60083" ph="SELECT `valu... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="61173:61261" ph="SELECT `opti... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="62404:62481" ph="SELECT `opti... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="74732:74811" ph="SELECT timeE... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="75601:75942" ph="SELECT ${$ta... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="76834:77184" ph="SELECT ${$ta... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="85808:86046" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="86088:86480" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="88613:88971" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="89019:89534" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="99380:99463" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="99839:99931" ph="SELECT userI... $" />
+            <marker date="1489460876959" expanded="true" signature="107155:107224" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="108600:108840" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="110366:110510" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="110553:110839" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="111904:112040" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="112083:112361" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="113920:114229" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="114272:114732" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="116001:116283" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="117558:117635" ph="SELECT timeE... $" />
+            <marker date="1489460876959" expanded="true" signature="121177:121259" ph="SELECT statu... $" />
+            <marker date="1489460876959" expanded="true" signature="121839:121889" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="123346:123436" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="123480:123712" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="125675:125726" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="132871:132952" ph="SELECT start... $" />
+            <marker date="1489460876959" expanded="true" signature="134528:134598" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="135585:135795" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="137798:138223" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="141231:141453" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="144582:144791" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="147906:148169" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="150961:151058" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}rates... " />
+            <marker date="1489460876959" expanded="true" signature="152286:152544" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="153458:153711" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="154686:154973" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="156141:156447" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="157372:157468" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}fixedRates... " />
+            <marker date="1489460876959" expanded="true" signature="158497:158669" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="160155:160356" ph="SELECT budge... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="161787:161954" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="162821:163086" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="163988:164232" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="164821:164943" ph="UPDATE ${${p... " />
+            <marker date="1489460876959" expanded="true" signature="165359:165460" ph="UPDATE ${${p... " />
+            <marker date="1489460876959" expanded="true" signature="174562:174703" ph="SELECT a.*, ${${p}}globalRoles" />
+            <marker date="1489460876959" expanded="true" signature="178338:178501" ph="SELECT a.*, ${${p}}membershipRoles" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/checkupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/phpclasses/ultimatemysql/mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24266">
+          <caret line="1103" column="31" selection-start-line="1103" selection-start-column="31" selection-end-line="1103" selection-end-column="31" />
+          <folding>
+            <marker date="1471885418000" expanded="true" signature="6154:6186" ph="DELETE FROM " />
+            <marker date="1471885418000" expanded="true" signature="6936:7018" ph="INSERT INTO `${$tableName}`... " />
+            <marker date="1471885418000" expanded="true" signature="15766:15802" ph="SELECT * FRO... ${$table}" />
+            <marker date="1471885418000" expanded="true" signature="20015:20051" ph="SELECT * FRO... ${$table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/autoconf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/basics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/ki_adminpanel/processor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10318">
+          <caret line="485" column="22" selection-start-line="485" selection-start-column="22" selection-end-line="485" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updater/updater.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5786">
+          <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+          <folding>
+            <marker date="1471885428000" expanded="true" signature="5359:5369" ph="..." />
+            <marker date="1471885428000" expanded="true" signature="5611:5650" ph="CREATE TABLE... ${$backupTable}" />
+            <marker date="1471885428000" expanded="true" signature="5718:5765" ph="INSERT INTO ${$backupTable}... " />
+            <marker date="1471885428000" expanded="true" signature="5751:5765" ph="SELECT * FRO... ${$row[0]}" />
+            <marker date="1471885428000" expanded="true" signature="6132:6142" ph="..." />
+            <marker date="1471885428000" expanded="true" signature="6781:6869" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="6893:6981" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="7005:7093" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="7117:7203" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="7227:7313" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="7337:7423" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="7448:7540" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="7565:7657" ph="ALTER TABLE `${${p}}grp`... " />
+            <marker date="1471885428000" expanded="true" signature="7681:7720" ph="ALTER TABLE `${${p}}grp`... " />
+            <marker date="1471885428000" expanded="true" signature="7745:7835" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="7860:7941" ph="ALTER TABLE `${${p}}ldr`... " />
+            <marker date="1471885428000" expanded="true" signature="7966:8056" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="8081:8124" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8148:8193" ph="ALTER TABLE `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="8218:8308" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="8413:8489" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8593:8660" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8764:8813" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8836:8888" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="8992:9042" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="9146:9304" ph="CREATE TABLE... ${${p}}rates" />
+            <marker date="1471885428000" expanded="true" signature="9328:9402" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="9507:9560" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="9584:9655" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="9760:10186" ph="CREATE TABLE... ${${p}}exp" />
+            <marker date="1471885428000" expanded="true" signature="10743:10749" ph=" " />
+            <marker date="1471885428000" expanded="true" signature="10749:10755" ph=" " />
+            <marker date="1471885428000" expanded="true" signature="10939:10960" ph="SELECT * FRO... $" />
+            <marker date="1471885428000" expanded="true" signature="11175:11288" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="11506:11600" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11704:11778" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11798:11867" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11887:11951" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11971:12050" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="12153:12227" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="12330:12398" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="12501:12577" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="12680:12719" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="12822:12890" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="12910:12975" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="12995:13065" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13085:13153" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13173:13241" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13261:13335" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13355:13421" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13441:13509" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13529:13596" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13699:13771" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13791:13861" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13881:13953" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13973:14026" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="14129:14202" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="14305:14362" ph="ALTER TABLE `${${p}}grp_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="14383:14440" ph="ALTER TABLE `${${p}}grp_knd`... " />
+            <marker date="1471885428000" expanded="true" signature="14461:14518" ph="ALTER TABLE `${${p}}grp_pct`... " />
+            <marker date="1471885428000" expanded="true" signature="14539:14596" ph="ALTER TABLE `${${p}}ldr`... " />
+            <marker date="1471885428000" expanded="true" signature="14700:14759" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="14779:14862" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="14965:15034" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="15137:15203" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="15306:15372" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="15475:15522" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="15543:15590" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="15611:15658" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="15679:15726" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="15747:15794" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="15815:15862" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="15966:16051" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="16154:16222" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="16325:16474" ph="CREATE TABLE... ${${p}}pct_evt" />
+            <marker date="1471885428000" expanded="true" signature="16578:16649" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="16752:16819" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="16922:16959" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="16979:17016" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="17036:17073" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="17176:17345" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="17501:17571" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="17591:17625" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="17654:17728" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="17831:17981" ph="CREATE TABLE... ${${p}}preferences" />
+            <marker date="1471885428000" expanded="true" signature="18345:18453" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="18723:18748" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="18864:18923" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="18943:19006" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="19109:19184" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="19287:19359" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="19462:19521" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="19624:19684" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="19787:20017" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="20120:20220" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="20356:20465" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="20690:20725" ph="SELECT knd_I... $" />
+            <marker date="1471885428000" expanded="true" signature="20931:21027" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="21113:21148" ph="SELECT pct_I... $" />
+            <marker date="1471885428000" expanded="true" signature="21351:21447" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="21532:21567" ph="SELECT evt_I... $" />
+            <marker date="1471885428000" expanded="true" signature="21764:21848" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="21936:21971" ph="SELECT usr_I... $" />
+            <marker date="1471885428000" expanded="true" signature="22165:22249" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="22336:22371" ph="SELECT grp_I... $" />
+            <marker date="1471885428000" expanded="true" signature="22568:22652" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="22818:22877" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="22999:23054" ph="SELECT value... $" />
+            <marker date="1471885428000" expanded="true" signature="23118:23194" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="23223:23283" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="23386:23431" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="23535:23614" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="23654:23693" ph="SELECT DISTI... $" />
+            <marker date="1471885428000" expanded="true" signature="23749:23798" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="23923:24055" ph="CREATE TABLE... ${${p}}fixed_rates" />
+            <marker date="1471885428000" expanded="true" signature="24099:24184" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="24294:24427" ph="CREATE TABLE... ${${p}}grp_usr" />
+            <marker date="1471885428000" expanded="true" signature="24491:24525" ph="SELECT usr_I... $" />
+            <marker date="1471885428000" expanded="true" signature="24581:24686" ph="INSERT INTO ${$p}grp_usr... " />
+            <marker date="1471885428000" expanded="true" signature="24714:24748" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="24852:25000" ph="ALTER TABLE `${${p}}pct_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="25023:25164" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="25186:25276" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="25297:25433" ph="CREATE TABLE... ${${p}}status" />
+            <marker date="1471885428000" expanded="true" signature="25455:25558" ph="INSERT INTO `${${p}}status`... " />
+            <marker date="1471885428000" expanded="true" signature="25580:25725" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="25748:25862" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="25884:25939" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="25960:26037" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="26059:26126" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="26148:26215" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="26237:26281" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="26385:26460" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="26480:26523" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="26725:26795" ph="ALTER TABLE ${${p}}evt" />
+            <marker date="1471885428000" expanded="true" signature="26823:26893" ph="ALTER TABLE ${${p}}evt" />
+            <marker date="1471885428000" expanded="true" signature="26921:26991" ph="ALTER TABLE ${${p}}evt" />
+            <marker date="1471885428000" expanded="true" signature="27020:27725" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="27748:28608" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="28631:28797" ph="ALTER TABLE `${${p}}fixed_rates`... " />
+            <marker date="1471885428000" expanded="true" signature="28820:29040" ph="ALTER TABLE `${${p}}grp`... " />
+            <marker date="1471885428000" expanded="true" signature="29063:29108" ph="ALTER TABLE `${${p}}grp_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="29136:29290" ph="ALTER TABLE `${${p}}grp_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="29367:29412" ph="ALTER TABLE `${${p}}grp_knd`... " />
+            <marker date="1471885428000" expanded="true" signature="29440:29593" ph="ALTER TABLE `${${p}}grp_knd`... " />
+            <marker date="1471885428000" expanded="true" signature="29670:29715" ph="ALTER TABLE `${${p}}grp_pct`... " />
+            <marker date="1471885428000" expanded="true" signature="29743:29894" ph="ALTER TABLE `${${p}}grp_pct`... " />
+            <marker date="1471885428000" expanded="true" signature="29970:30114" ph="ALTER TABLE `${${p}}grp_usr`... " />
+            <marker date="1471885428000" expanded="true" signature="30137:31391" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="31414:31563" ph="ALTER TABLE `${${p}}ldr`... " />
+            <marker date="1471885428000" expanded="true" signature="31636:32382" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="32454:32525" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="32546:32902" ph="ALTER TABLE `${${p}}pct_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="32981:33054" ph="ALTER TABLE `${${p}}preferences`... " />
+            <marker date="1471885428000" expanded="true" signature="33077:33264" ph="ALTER TABLE `${${p}}rates`... " />
+            <marker date="1471885428000" expanded="true" signature="33287:33402" ph="ALTER TABLE `${${p}}status`... " />
+            <marker date="1471885428000" expanded="true" signature="33425:34561" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="34661:34757" ph="ALTER TABLE `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="34780:34880" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="34906:36449" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="36573:36645" ph="SELECT `valu... $" />
+            <marker date="1471885428000" expanded="true" signature="37311:37375" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="37941:37969" ph="ALTER TABLE `${${p}}activities`... " />
+            <marker date="1471885428000" expanded="true" signature="38127:38186" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="38290:38336" ph="ALTER TABLE `${${p}}activities`... " />
+            <marker date="1471885428000" expanded="true" signature="38556:38626" ph="ALTER TABLE `${${p}}groups_users`... " />
+            <marker date="1471885428000" expanded="true" signature="38668:38760" ph="ALTER TABLE `${${p}}groups_users`... " />
+            <marker date="1471885428000" expanded="true" signature="38841:38900" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="38938:39015" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="39036:39156" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="39077:39140" ph="SELECT globa... ${${p}}globalRoles" />
+            <marker date="1471885428000" expanded="true" signature="39206:39407" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="39254:39331" ph="SELECT membe... ${${p}}membershipRoles" />
+            <marker date="1471885428000" expanded="true" signature="39360:39406" ph="SELECT group... ${${p}}groupleaders" />
+            <marker date="1471885428000" expanded="true" signature="39450:39634" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="39498:39569" ph="SELECT membe... ${${p}}membershipRoles" />
+            <marker date="1471885428000" expanded="true" signature="39588:39633" ph="SELECT userI... ${${p}}users" />
+            <marker date="1471885428000" expanded="true" signature="39826:39908" ph="ALTER TABLE `${${p}}globalRoles`... " />
+            <marker date="1471885428000" expanded="true" signature="39933:40049" ph="ALTER TABLE `${${p}}globalRoles`... " />
+            <marker date="1471885428000" expanded="true" signature="40077:40106" ph="DROP TABLE `... " />
+            <marker date="1471885428000" expanded="true" signature="40380:40453" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="40557:40632" ph="ALTER TABLE `${${p}}rates`... " />
+            <marker date="1471885428000" expanded="true" signature="40736:40818" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="41679:41740" ph="INSERT INTO `${${p}}configuration`... " />
+            <marker date="1471885428000" expanded="true" signature="42300:42363" ph="ALTER TABLE `${${p}}expenses`... " />
+            <marker date="1471885428000" expanded="true" signature="42391:42457" ph="ALTER TABLE `${${p}}expenses`... " />
+            <marker date="1471885428000" expanded="true" signature="42485:42565" ph="ALTER TABLE `${${p}}fixedRates`... " />
+            <marker date="1471885428000" expanded="true" signature="42784:42862" ph="ALTER TABLE `${${p}}groups_activities`... " />
+            <marker date="1471885428000" expanded="true" signature="42890:42968" ph="ALTER TABLE `${${p}}groups_customers`... " />
+            <marker date="1471885428000" expanded="true" signature="42996:43073" ph="ALTER TABLE `${${p}}groups_projects`... " />
+            <marker date="1471885428000" expanded="true" signature="43101:43175" ph="ALTER TABLE `${${p}}groups_users`... " />
+            <marker date="1471885428000" expanded="true" signature="43502:43569" ph="ALTER TABLE `${${p}}projects`... " />
+            <marker date="1471885428000" expanded="true" signature="43597:43677" ph="ALTER TABLE `${${p}}projects_activities`... " />
+            <marker date="1471885428000" expanded="true" signature="43705:43795" ph="ALTER TABLE `${${p}}rates`... " />
+            <marker date="1471885428000" expanded="true" signature="44111:44159" ph="ALTER TABLE `${${p}}timesheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44186:44234" ph="ALTER TABLE `${${p}}timeSheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44262:44310" ph="ALTER TABLE `${${p}}timesheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44337:44388" ph="ALTER TABLE `${${p}}timeSheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44416:44464" ph="ALTER TABLE `${${p}}timesheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44491:44543" ph="ALTER TABLE `${${p}}timeSheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44694:44741" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="44769:44818" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="44847:44951" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="45254:45330" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="45351:45433" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="45537:45599" ph="INSERT INTO `${${p}}configuration`... " />
+            <marker date="1471885428000" expanded="true" signature="45703:45799" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="45819:45919" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46049:46111" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46132:46202" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46223:46285" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46306:46376" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46397:46465" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46485:46555" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46576:46640" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46661:46727" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46748:46810" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46831:46899" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46920:46984" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47005:47077" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47103:47164" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47185:47268" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47294:47357" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47461:47522" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47626:47709" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="47729:47811" ph="INSERT INTO `${${p}}configuration`... " />
+            <marker date="1471885428000" expanded="true" signature="47941:48029" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="48350:48420" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="48492:48563" ph="UPDATE `${${... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/version.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/ki_timesheets/processor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/Kimai/Database/Mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="26" />
+          <folding>
+            <marker date="1489460876959" expanded="true" signature="40304:40630" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="44681:44920" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="45635:45836" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="59048:59094" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="60018:60083" ph="SELECT `valu... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="61173:61261" ph="SELECT `opti... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="62404:62481" ph="SELECT `opti... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="74732:74811" ph="SELECT timeE... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="75601:75942" ph="SELECT ${$ta... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="76834:77184" ph="SELECT ${$ta... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="85808:86046" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="86088:86480" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="88613:88971" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="89019:89534" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="99380:99463" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="99839:99931" ph="SELECT userI... $" />
+            <marker date="1489460876959" expanded="true" signature="107155:107224" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="108600:108840" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="110366:110510" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="110553:110839" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="111904:112040" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="112083:112361" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="113920:114229" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="114272:114732" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="116001:116283" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="117558:117635" ph="SELECT timeE... $" />
+            <marker date="1489460876959" expanded="true" signature="121177:121259" ph="SELECT statu... $" />
+            <marker date="1489460876959" expanded="true" signature="121839:121889" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="123346:123436" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="123480:123712" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="125675:125726" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="132871:132952" ph="SELECT start... $" />
+            <marker date="1489460876959" expanded="true" signature="134528:134598" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="135585:135795" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="137798:138223" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="141231:141453" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="144582:144791" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="147906:148169" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="150961:151058" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}rates... " />
+            <marker date="1489460876959" expanded="true" signature="152286:152544" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="153458:153711" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="154686:154973" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="156141:156447" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="157372:157468" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}fixedRates... " />
+            <marker date="1489460876959" expanded="true" signature="158497:158669" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="160155:160356" ph="SELECT budge... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="161787:161954" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="162821:163086" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="163988:164232" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="164821:164943" ph="UPDATE ${${p... " />
+            <marker date="1489460876959" expanded="true" signature="165359:165460" ph="UPDATE ${${p... " />
+            <marker date="1489460876959" expanded="true" signature="174562:174703" ph="SELECT a.*, ${${p}}globalRoles" />
+            <marker date="1489460876959" expanded="true" signature="178338:178501" ph="SELECT a.*, ${${p}}membershipRoles" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/checkupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/phpclasses/ultimatemysql/mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24266">
+          <caret line="1103" column="31" selection-start-line="1103" selection-start-column="31" selection-end-line="1103" selection-end-column="31" />
+          <folding>
+            <marker date="1471885418000" expanded="true" signature="6154:6186" ph="DELETE FROM " />
+            <marker date="1471885418000" expanded="true" signature="6936:7018" ph="INSERT INTO `${$tableName}`... " />
+            <marker date="1471885418000" expanded="true" signature="15766:15802" ph="SELECT * FRO... ${$table}" />
+            <marker date="1471885418000" expanded="true" signature="20015:20051" ph="SELECT * FRO... ${$table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/autoconf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/ki_timesheets/templates/scripts/floaters/add_edit_timeSheetEntry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="73" column="156" selection-start-line="73" selection-start-column="156" selection-end-line="73" selection-end-column="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/ki_timesheets/templates/scripts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="89" selection-start-line="3" selection-start-column="89" selection-end-line="3" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/ki_timesheets/floaters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="210" column="33" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/ki_timesheets/processor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="424" column="23" selection-start-line="424" selection-start-column="19" selection-end-line="424" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/Kimai/Database/Mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="26" />
+          <folding>
+            <marker date="1489460876959" expanded="true" signature="40304:40630" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="44681:44920" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="45635:45836" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="59048:59094" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="60018:60083" ph="SELECT `valu... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="61173:61261" ph="SELECT `opti... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="62404:62481" ph="SELECT `opti... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="74732:74811" ph="SELECT timeE... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="75601:75942" ph="SELECT ${$ta... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="76834:77184" ph="SELECT ${$ta... ${$table}" />
+            <marker date="1489460876959" expanded="true" signature="85808:86046" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="86088:86480" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="88613:88971" ph="SELECT proje... $" />
+            <marker date="1489460876959" expanded="true" signature="89019:89534" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="99380:99463" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="99839:99931" ph="SELECT userI... $" />
+            <marker date="1489460876959" expanded="true" signature="107155:107224" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="108600:108840" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="110366:110510" ph="SELECT custo... $" />
+            <marker date="1489460876959" expanded="true" signature="110553:110839" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="111904:112040" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="112083:112361" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="113920:114229" ph="SELECT activ... $" />
+            <marker date="1489460876959" expanded="true" signature="114272:114732" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="116001:116283" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="117558:117635" ph="SELECT timeE... $" />
+            <marker date="1489460876959" expanded="true" signature="121177:121259" ph="SELECT statu... $" />
+            <marker date="1489460876959" expanded="true" signature="121839:121889" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="123346:123436" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="123480:123712" ph="SELECT DISTI... $" />
+            <marker date="1489460876959" expanded="true" signature="125675:125726" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="132871:132952" ph="SELECT start... $" />
+            <marker date="1489460876959" expanded="true" signature="134528:134598" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="135585:135795" ph="SELECT * FRO... $" />
+            <marker date="1489460876959" expanded="true" signature="137798:138223" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="141231:141453" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="144582:144791" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="147906:148169" ph="SELECT start... " />
+            <marker date="1489460876959" expanded="true" signature="150961:151058" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}rates... " />
+            <marker date="1489460876959" expanded="true" signature="152286:152544" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="153458:153711" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="154686:154973" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="156141:156447" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="157372:157468" ph="INSERT INTO ${$this-&gt;kga['server_prefix']}fixedRates... " />
+            <marker date="1489460876959" expanded="true" signature="158497:158669" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="160155:160356" ph="SELECT budge... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="161787:161954" ph="DELETE FROM " />
+            <marker date="1489460876959" expanded="true" signature="162821:163086" ph="SELECT rate ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="163988:164232" ph="SELECT rate,... ${$this-&gt;kga['server_prefix']}" />
+            <marker date="1489460876959" expanded="true" signature="164821:164943" ph="UPDATE ${${p... " />
+            <marker date="1489460876959" expanded="true" signature="165359:165460" ph="UPDATE ${${p... " />
+            <marker date="1489460876959" expanded="true" signature="174562:174703" ph="SELECT a.*, ${${p}}globalRoles" />
+            <marker date="1489460876959" expanded="true" signature="178338:178501" ph="SELECT a.*, ${${p}}membershipRoles" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/checkupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/phpclasses/ultimatemysql/mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24266">
+          <caret line="1103" column="31" selection-start-line="1103" selection-start-column="31" selection-end-line="1103" selection-end-column="31" />
+          <folding>
+            <marker date="1471885418000" expanded="true" signature="6154:6186" ph="DELETE FROM " />
+            <marker date="1471885418000" expanded="true" signature="6936:7018" ph="INSERT INTO `${$tableName}`... " />
+            <marker date="1471885418000" expanded="true" signature="15766:15802" ph="SELECT * FRO... ${$table}" />
+            <marker date="1471885418000" expanded="true" signature="20015:20051" ph="SELECT * FRO... ${$table}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/autoconf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/basics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/ki_adminpanel/processor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10318">
+          <caret line="485" column="22" selection-start-line="485" selection-start-column="22" selection-end-line="485" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updater/updater.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5434">
+          <caret line="263" column="14" selection-start-line="263" selection-start-column="14" selection-end-line="263" selection-end-column="14" />
+          <folding>
+            <marker date="1471885428000" expanded="true" signature="5359:5369" ph="..." />
+            <marker date="1471885428000" expanded="true" signature="5611:5650" ph="CREATE TABLE... ${$backupTable}" />
+            <marker date="1471885428000" expanded="true" signature="5718:5765" ph="INSERT INTO ${$backupTable}... " />
+            <marker date="1471885428000" expanded="true" signature="5751:5765" ph="SELECT * FRO... ${$row[0]}" />
+            <marker date="1471885428000" expanded="true" signature="6132:6142" ph="..." />
+            <marker date="1471885428000" expanded="true" signature="6781:6869" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="6893:6981" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="7005:7093" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="7117:7203" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="7227:7313" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="7337:7423" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="7448:7540" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="7565:7657" ph="ALTER TABLE `${${p}}grp`... " />
+            <marker date="1471885428000" expanded="true" signature="7681:7720" ph="ALTER TABLE `${${p}}grp`... " />
+            <marker date="1471885428000" expanded="true" signature="7745:7835" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="7860:7941" ph="ALTER TABLE `${${p}}ldr`... " />
+            <marker date="1471885428000" expanded="true" signature="7966:8056" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="8081:8124" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8148:8193" ph="ALTER TABLE `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="8218:8308" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="8413:8489" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8593:8660" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8764:8813" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="8836:8888" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="8992:9042" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="9146:9304" ph="CREATE TABLE... ${${p}}rates" />
+            <marker date="1471885428000" expanded="true" signature="9328:9402" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="9507:9560" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="9584:9655" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="9760:10186" ph="CREATE TABLE... ${${p}}exp" />
+            <marker date="1471885428000" expanded="true" signature="10743:10749" ph=" " />
+            <marker date="1471885428000" expanded="true" signature="10749:10755" ph=" " />
+            <marker date="1471885428000" expanded="true" signature="10939:10960" ph="SELECT * FRO... $" />
+            <marker date="1471885428000" expanded="true" signature="11175:11288" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="11506:11600" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11704:11778" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11798:11867" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11887:11951" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="11971:12050" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="12153:12227" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="12330:12398" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="12501:12577" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="12680:12719" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="12822:12890" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="12910:12975" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="12995:13065" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13085:13153" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13173:13241" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13261:13335" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13355:13421" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13441:13509" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13529:13596" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13699:13771" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13791:13861" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13881:13953" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="13973:14026" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="14129:14202" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="14305:14362" ph="ALTER TABLE `${${p}}grp_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="14383:14440" ph="ALTER TABLE `${${p}}grp_knd`... " />
+            <marker date="1471885428000" expanded="true" signature="14461:14518" ph="ALTER TABLE `${${p}}grp_pct`... " />
+            <marker date="1471885428000" expanded="true" signature="14539:14596" ph="ALTER TABLE `${${p}}ldr`... " />
+            <marker date="1471885428000" expanded="true" signature="14700:14759" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="14779:14862" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="14965:15034" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="15137:15203" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="15306:15372" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="15475:15522" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="15543:15590" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="15611:15658" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="15679:15726" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="15747:15794" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="15815:15862" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="15966:16051" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="16154:16222" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="16325:16474" ph="CREATE TABLE... ${${p}}pct_evt" />
+            <marker date="1471885428000" expanded="true" signature="16578:16649" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="16752:16819" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="16922:16959" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="16979:17016" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="17036:17073" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="17176:17345" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="17501:17571" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="17591:17625" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="17654:17728" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="17831:17981" ph="CREATE TABLE... ${${p}}preferences" />
+            <marker date="1471885428000" expanded="true" signature="18345:18453" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="18723:18748" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="18864:18923" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="18943:19006" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="19109:19184" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="19287:19359" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="19462:19521" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="19624:19684" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="19787:20017" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="20120:20220" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="20356:20465" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="20690:20725" ph="SELECT knd_I... $" />
+            <marker date="1471885428000" expanded="true" signature="20931:21027" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="21113:21148" ph="SELECT pct_I... $" />
+            <marker date="1471885428000" expanded="true" signature="21351:21447" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="21532:21567" ph="SELECT evt_I... $" />
+            <marker date="1471885428000" expanded="true" signature="21764:21848" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="21936:21971" ph="SELECT usr_I... $" />
+            <marker date="1471885428000" expanded="true" signature="22165:22249" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="22336:22371" ph="SELECT grp_I... $" />
+            <marker date="1471885428000" expanded="true" signature="22568:22652" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="22818:22877" ph="INSERT INTO $... " />
+            <marker date="1471885428000" expanded="true" signature="22999:23054" ph="SELECT value... $" />
+            <marker date="1471885428000" expanded="true" signature="23118:23194" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="23223:23283" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="23386:23431" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="23535:23614" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="23654:23693" ph="SELECT DISTI... $" />
+            <marker date="1471885428000" expanded="true" signature="23749:23798" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="23923:24055" ph="CREATE TABLE... ${${p}}fixed_rates" />
+            <marker date="1471885428000" expanded="true" signature="24099:24184" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="24294:24427" ph="CREATE TABLE... ${${p}}grp_usr" />
+            <marker date="1471885428000" expanded="true" signature="24491:24525" ph="SELECT usr_I... $" />
+            <marker date="1471885428000" expanded="true" signature="24581:24686" ph="INSERT INTO ${$p}grp_usr... " />
+            <marker date="1471885428000" expanded="true" signature="24714:24748" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="24852:25000" ph="ALTER TABLE `${${p}}pct_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="25023:25164" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="25186:25276" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="25297:25433" ph="CREATE TABLE... ${${p}}status" />
+            <marker date="1471885428000" expanded="true" signature="25455:25558" ph="INSERT INTO `${${p}}status`... " />
+            <marker date="1471885428000" expanded="true" signature="25580:25725" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="25748:25862" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="25884:25939" ph="UPDATE ${${p... " />
+            <marker date="1471885428000" expanded="true" signature="25960:26037" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="26059:26126" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="26148:26215" ph="INSERT INTO `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="26237:26281" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="26385:26460" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="26480:26523" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="26725:26795" ph="ALTER TABLE ${${p}}evt" />
+            <marker date="1471885428000" expanded="true" signature="26823:26893" ph="ALTER TABLE ${${p}}evt" />
+            <marker date="1471885428000" expanded="true" signature="26921:26991" ph="ALTER TABLE ${${p}}evt" />
+            <marker date="1471885428000" expanded="true" signature="27020:27725" ph="ALTER TABLE `${${p}}evt`... " />
+            <marker date="1471885428000" expanded="true" signature="27748:28608" ph="ALTER TABLE `${${p}}exp`... " />
+            <marker date="1471885428000" expanded="true" signature="28631:28797" ph="ALTER TABLE `${${p}}fixed_rates`... " />
+            <marker date="1471885428000" expanded="true" signature="28820:29040" ph="ALTER TABLE `${${p}}grp`... " />
+            <marker date="1471885428000" expanded="true" signature="29063:29108" ph="ALTER TABLE `${${p}}grp_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="29136:29290" ph="ALTER TABLE `${${p}}grp_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="29367:29412" ph="ALTER TABLE `${${p}}grp_knd`... " />
+            <marker date="1471885428000" expanded="true" signature="29440:29593" ph="ALTER TABLE `${${p}}grp_knd`... " />
+            <marker date="1471885428000" expanded="true" signature="29670:29715" ph="ALTER TABLE `${${p}}grp_pct`... " />
+            <marker date="1471885428000" expanded="true" signature="29743:29894" ph="ALTER TABLE `${${p}}grp_pct`... " />
+            <marker date="1471885428000" expanded="true" signature="29970:30114" ph="ALTER TABLE `${${p}}grp_usr`... " />
+            <marker date="1471885428000" expanded="true" signature="30137:31391" ph="ALTER TABLE `${${p}}knd`... " />
+            <marker date="1471885428000" expanded="true" signature="31414:31563" ph="ALTER TABLE `${${p}}ldr`... " />
+            <marker date="1471885428000" expanded="true" signature="31636:32382" ph="ALTER TABLE `${${p}}pct`... " />
+            <marker date="1471885428000" expanded="true" signature="32454:32525" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="32546:32902" ph="ALTER TABLE `${${p}}pct_evt`... " />
+            <marker date="1471885428000" expanded="true" signature="32981:33054" ph="ALTER TABLE `${${p}}preferences`... " />
+            <marker date="1471885428000" expanded="true" signature="33077:33264" ph="ALTER TABLE `${${p}}rates`... " />
+            <marker date="1471885428000" expanded="true" signature="33287:33402" ph="ALTER TABLE `${${p}}status`... " />
+            <marker date="1471885428000" expanded="true" signature="33425:34561" ph="ALTER TABLE `${${p}}usr`... " />
+            <marker date="1471885428000" expanded="true" signature="34661:34757" ph="ALTER TABLE `${${p}}var`... " />
+            <marker date="1471885428000" expanded="true" signature="34780:34880" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="34906:36449" ph="ALTER TABLE `${${p}}zef`... " />
+            <marker date="1471885428000" expanded="true" signature="36573:36645" ph="SELECT `valu... $" />
+            <marker date="1471885428000" expanded="true" signature="37311:37375" ph="DELETE FROM " />
+            <marker date="1471885428000" expanded="true" signature="37941:37969" ph="ALTER TABLE `${${p}}activities`... " />
+            <marker date="1471885428000" expanded="true" signature="38127:38186" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="38290:38336" ph="ALTER TABLE `${${p}}activities`... " />
+            <marker date="1471885428000" expanded="true" signature="38556:38626" ph="ALTER TABLE `${${p}}groups_users`... " />
+            <marker date="1471885428000" expanded="true" signature="38668:38760" ph="ALTER TABLE `${${p}}groups_users`... " />
+            <marker date="1471885428000" expanded="true" signature="38841:38900" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="38938:39015" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="39036:39156" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="39077:39140" ph="SELECT globa... ${${p}}globalRoles" />
+            <marker date="1471885428000" expanded="true" signature="39206:39407" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="39254:39331" ph="SELECT membe... ${${p}}membershipRoles" />
+            <marker date="1471885428000" expanded="true" signature="39360:39406" ph="SELECT group... ${${p}}groupleaders" />
+            <marker date="1471885428000" expanded="true" signature="39450:39634" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="39498:39569" ph="SELECT membe... ${${p}}membershipRoles" />
+            <marker date="1471885428000" expanded="true" signature="39588:39633" ph="SELECT userI... ${${p}}users" />
+            <marker date="1471885428000" expanded="true" signature="39826:39908" ph="ALTER TABLE `${${p}}globalRoles`... " />
+            <marker date="1471885428000" expanded="true" signature="39933:40049" ph="ALTER TABLE `${${p}}globalRoles`... " />
+            <marker date="1471885428000" expanded="true" signature="40077:40106" ph="DROP TABLE `... " />
+            <marker date="1471885428000" expanded="true" signature="40380:40453" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="40557:40632" ph="ALTER TABLE `${${p}}rates`... " />
+            <marker date="1471885428000" expanded="true" signature="40736:40818" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="41679:41740" ph="INSERT INTO `${${p}}configuration`... " />
+            <marker date="1471885428000" expanded="true" signature="42300:42363" ph="ALTER TABLE `${${p}}expenses`... " />
+            <marker date="1471885428000" expanded="true" signature="42391:42457" ph="ALTER TABLE `${${p}}expenses`... " />
+            <marker date="1471885428000" expanded="true" signature="42485:42565" ph="ALTER TABLE `${${p}}fixedRates`... " />
+            <marker date="1471885428000" expanded="true" signature="42784:42862" ph="ALTER TABLE `${${p}}groups_activities`... " />
+            <marker date="1471885428000" expanded="true" signature="42890:42968" ph="ALTER TABLE `${${p}}groups_customers`... " />
+            <marker date="1471885428000" expanded="true" signature="42996:43073" ph="ALTER TABLE `${${p}}groups_projects`... " />
+            <marker date="1471885428000" expanded="true" signature="43101:43175" ph="ALTER TABLE `${${p}}groups_users`... " />
+            <marker date="1471885428000" expanded="true" signature="43502:43569" ph="ALTER TABLE `${${p}}projects`... " />
+            <marker date="1471885428000" expanded="true" signature="43597:43677" ph="ALTER TABLE `${${p}}projects_activities`... " />
+            <marker date="1471885428000" expanded="true" signature="43705:43795" ph="ALTER TABLE `${${p}}rates`... " />
+            <marker date="1471885428000" expanded="true" signature="44111:44159" ph="ALTER TABLE `${${p}}timesheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44186:44234" ph="ALTER TABLE `${${p}}timeSheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44262:44310" ph="ALTER TABLE `${${p}}timesheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44337:44388" ph="ALTER TABLE `${${p}}timeSheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44416:44464" ph="ALTER TABLE `${${p}}timesheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44491:44543" ph="ALTER TABLE `${${p}}timeSheet`... " />
+            <marker date="1471885428000" expanded="true" signature="44694:44741" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="44769:44818" ph="ALTER TABLE `${${p}}users`... " />
+            <marker date="1471885428000" expanded="true" signature="44847:44951" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="45254:45330" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="45351:45433" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="45537:45599" ph="INSERT INTO `${${p}}configuration`... " />
+            <marker date="1471885428000" expanded="true" signature="45703:45799" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="45819:45919" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46049:46111" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46132:46202" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46223:46285" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46306:46376" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46397:46465" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46485:46555" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46576:46640" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46661:46727" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46748:46810" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46831:46899" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="46920:46984" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47005:47077" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47103:47164" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47185:47268" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47294:47357" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47461:47522" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="47626:47709" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="47729:47811" ph="INSERT INTO `${${p}}configuration`... " />
+            <marker date="1471885428000" expanded="true" signature="47941:48029" ph="ALTER TABLE $... " />
+            <marker date="1471885428000" expanded="true" signature="48350:48420" ph="UPDATE `${${... " />
+            <marker date="1471885428000" expanded="true" signature="48492:48563" ph="UPDATE `${${... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/version.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

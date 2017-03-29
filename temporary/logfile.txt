@@ -1,0 +1,343 @@
+[14.03.2017 10:40:57] -- begin install ----------------------------------
+[14.03.2017 10:40:58] -- installation finished without error ------------
+[14.03.2017 10:41:06] login: root as user
+[14.03.2017 10:42:22] login: admin as user
+[14.03.2017 10:43:12] login: admin as user
+[14.03.2017 10:44:07] login: admin as user
+[14.03.2017 10:44:14] KSPI axAction (admin): securityWarning
+[14.03.2017 10:45:33] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:45:33] get_best_fitting_rate - using default rate 0.00
+[14.03.2017 10:45:34] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:45:36] KSPI axAction (admin): bestFittingRates
+[14.03.2017 10:45:36] get_best_fitting_rate - using default rate 0.00
+[14.03.2017 10:45:43] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:45:44] timeEntry_create
+[14.03.2017 10:45:45] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 10:45:59] KSPI axAction (admin): record
+[14.03.2017 10:46:00] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 10:46:00] KSPI axAction (admin): saveBuzzerPreselection
+[14.03.2017 10:46:00] KSPI axAction (admin): saveBuzzerPreselection
+[14.03.2017 10:46:00] KSPI axAction (admin): reload_activities
+[14.03.2017 10:46:09] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:46:11] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:46:23] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:46:23] timeEntry_edit: 1
+[14.03.2017 10:46:25] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 10:46:29] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:46:31] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:46:45] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:46:45] timeEntry_edit: 2
+[14.03.2017 10:46:47] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 10:49:24] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:49:26] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:52:48] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:52:49] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:52:54] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:52:54] timeEntry_edit: 1
+[14.03.2017 10:52:55] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 10:53:03] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:53:04] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:53:09] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:53:09] timeEntry_edit: 1
+[14.03.2017 10:53:10] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 10:53:47] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:53:48] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:54:02] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:54:02] timeEntry_edit: 1
+[14.03.2017 10:54:03] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 10:57:14] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:57:15] KSPI axAction (admin): reload_activities_options
+[14.03.2017 10:57:23] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 10:59:32] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 11:00:35] timeEntry_edit: 1
+[14.03.2017 11:01:32] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 11:01:46] timeEntry_edit: 1
+[14.03.2017 11:03:20] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 11:03:23] timeEntry_edit: 1
+[14.03.2017 11:07:43] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 11:07:43] timeEntry_edit: 1
+[14.03.2017 11:07:44] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 11:08:57] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 11:08:59] KSPI axAction (admin): reload_activities_options
+[14.03.2017 11:09:07] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 11:09:07] timeEntry_edit: 2
+[14.03.2017 11:09:09] KSPI axAction (admin): reload_timeSheet
+[14.03.2017 11:09:14] KSPI axAction (admin): securityWarning
+[14.03.2017 11:15:11] KSPI axAction (admin): refreshSubtab
+[14.03.2017 11:15:11] KSPI axAction (admin): refreshSubtab
+[14.03.2017 11:15:19] KSPI axAction (admin): editUser
+[14.03.2017 11:15:29] KSPI axAction (admin): sendEditUser
+[14.03.2017 11:15:31] KSPI axAction (admin): refreshSubtab
+[14.03.2017 11:15:31] KSPI axAction (admin): reload_users
+[14.03.2017 11:15:31] KSPI axAction (admin): refreshSubtab
+[14.03.2017 11:15:33] KSPI axAction (admin): editUser
+[14.03.2017 11:15:35] KSPI axAction (admin): editUser
+[14.03.2017 11:15:36] KSPI axAction (admin): editUser
+[14.03.2017 11:15:45] KSPI axAction (admin): sendEditUser
+[14.03.2017 11:15:47] KSPI axAction (admin): refreshSubtab
+[14.03.2017 11:15:47] KSPI axAction (admin): refreshSubtab
+[14.03.2017 11:15:47] KSPI axAction (admin): reload_users
+[14.03.2017 11:15:51] KSPI axAction (admin): editUser
+[14.03.2017 11:15:58] KSPI axAction (admin): reload
+[14.03.2017 12:31:24] KSPI axAction (admin): add_edit_timeSheetEntry
+[14.03.2017 12:31:24] get_best_fitting_rate - using default rate 0.00
+[14.03.2017 12:31:25] KSPI axAction (admin): reload_activities_options
+[14.03.2017 12:31:27] KSPI axAction (admin): bestFittingRates
+[14.03.2017 12:31:27] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:53:40] login: root as user
+[15.03.2017 09:53:46] login: root as user
+[15.03.2017 09:53:55] login: root as user
+[15.03.2017 09:54:32] login: root as user
+[15.03.2017 09:54:43] login: admin as user
+[15.03.2017 09:54:52] login: admin as user
+[15.03.2017 09:54:57] KSPI axAction (admin): securityWarning
+[15.03.2017 09:55:06] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 09:55:06] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:55:07] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 09:55:07] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:55:08] KSPI axAction (admin): reload_activities_options
+[15.03.2017 09:55:09] KSPI axAction (admin): reload_activities_options
+[15.03.2017 09:55:09] KSPI axAction (admin): bestFittingRates
+[15.03.2017 09:55:09] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:55:11] KSPI axAction (admin): bestFittingRates
+[15.03.2017 09:55:11] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:55:41] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 09:55:41] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:55:42] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 09:55:42] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:55:42] KSPI axAction (admin): reload_activities_options
+[15.03.2017 09:55:44] KSPI axAction (admin): reload_activities_options
+[15.03.2017 09:55:44] KSPI axAction (admin): bestFittingRates
+[15.03.2017 09:55:44] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 09:55:46] KSPI axAction (admin): bestFittingRates
+[15.03.2017 09:55:46] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 10:03:13] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 10:03:14] KSPI axAction (admin): reload_activities_options
+[15.03.2017 10:03:16] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 10:03:17] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 10:03:18] KSPI axAction (admin): reload_activities_options
+[15.03.2017 10:03:19] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 10:03:19] KSPI axAction (admin): reload_activities_options
+[15.03.2017 10:03:20] KSPI axAction (admin): reload_activities_options
+[15.03.2017 10:03:26] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 10:03:28] KSPI axAction (admin): reload_activities_options
+[15.03.2017 10:03:31] KSPI axAction (admin): refreshSubtab
+[15.03.2017 10:03:31] KSPI axAction (admin): refreshSubtab
+[15.03.2017 10:03:32] KSPI axAction (admin): refreshSubtab
+[15.03.2017 10:03:36] KSPI axAction (admin): add_edit_activity
+[15.03.2017 10:03:39] KSPI axAction (admin): add_edit_activity
+[15.03.2017 10:03:39] KSPI axAction (admin): add_edit_activity
+[15.03.2017 10:03:45] KSPI axAction (admin): add_edit_CustomerProjectActivity
+[15.03.2017 10:03:47] KSPI axAction (admin): reload_timeSheet
+[15.03.2017 10:03:47] KSPI axAction (admin): reload_activities
+[15.03.2017 10:03:49] KSPI axAction (admin): reload
+[15.03.2017 10:03:49] KSPI axAction (admin): reload_timeSheet
+[15.03.2017 10:03:49] KSPI axAction (admin): reload_exp
+[15.03.2017 10:03:51] KSPI axAction (admin): saveBuzzerPreselection
+[15.03.2017 10:03:53] KSPI axAction (admin): add_edit_timeSheetEntry
+[15.03.2017 10:03:55] KSPI axAction (admin): reload_activities_options
+[15.03.2017 10:03:56] KSPI axAction (admin): bestFittingRates
+[15.03.2017 10:03:56] KSPI axAction (admin): budgets
+[15.03.2017 10:03:56] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 10:03:57] KSPI axAction (admin): bestFittingRates
+[15.03.2017 10:03:58] KSPI axAction (admin): bestFittingRates
+[15.03.2017 10:03:58] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 10:03:58] KSPI axAction (admin): budgets
+[15.03.2017 10:03:58] KSPI axAction (admin): budgets
+[15.03.2017 10:03:58] KSPI axAction (admin): bestFittingRates
+[15.03.2017 10:03:59] KSPI axAction (admin): bestFittingRates
+[15.03.2017 10:03:59] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 10:03:59] KSPI axAction (admin): budgets
+[15.03.2017 10:04:00] KSPI axAction (admin): budgets
+[15.03.2017 10:04:00] KSPI axAction (admin): bestFittingRates
+[15.03.2017 10:04:01] KSPI axAction (admin): bestFittingRates
+[15.03.2017 10:04:01] get_best_fitting_rate - using default rate 0.00
+[15.03.2017 10:04:01] KSPI axAction (admin): budgets
+[15.03.2017 10:04:01] KSPI axAction (admin): budgets
+[15.03.2017 10:04:02] KSPI axAction (admin): bestFittingRates
+[17.03.2017 10:37:43] login: admin as user
+[17.03.2017 10:37:45] login: admin as user
+[17.03.2017 10:37:49] KSPI axAction (admin): securityWarning
+[17.03.2017 10:38:02] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:38:03] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:38:03] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:38:13] KSPI axAction (admin): createUser
+[17.03.2017 10:38:14] KSPI axAction (admin): editUser
+[17.03.2017 10:38:14] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:38:27] KSPI axAction (admin): sendEditUser
+[17.03.2017 10:38:28] KSPI axAction (admin): reload_users
+[17.03.2017 10:38:28] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:38:28] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:38:35] KSPI axAction (admin): createGroup
+[17.03.2017 10:38:36] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:38:45] KSPI axAction (admin): editUser
+[17.03.2017 10:39:07] KSPI axAction (admin): sendEditUser
+[17.03.2017 10:39:08] KSPI axAction (admin): reload_users
+[17.03.2017 10:39:08] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:39:08] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:39:37] KSPI axAction (admin): reload
+[17.03.2017 10:39:45] KSPI axAction (admin): reload
+[17.03.2017 10:39:45] KSPI axAction (admin): reload_exp
+[17.03.2017 10:39:45] KSPI axAction (admin): reload_timeSheet
+[17.03.2017 10:39:52] KSPI axAction (admin): reload
+[17.03.2017 10:40:22] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:40:22] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:40:22] KSPI axAction (admin): refreshSubtab
+[17.03.2017 10:51:37] KSPI axAction (admin): add_edit_timeSheetEntry
+[17.03.2017 10:51:38] KSPI axAction (admin): reload_activities_options
+[17.03.2017 10:51:39] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:23:41] KSPI axAction (admin): add_edit_timeSheetEntry
+[17.03.2017 13:23:42] KSPI axAction (admin): reload_activities_options
+[17.03.2017 13:23:43] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:42:04] KSPI axAction (admin): securityWarning
+[17.03.2017 13:42:24] KSPI axAction (admin): add_edit_timeSheetEntry
+[17.03.2017 13:42:25] KSPI axAction (admin): reload_activities_options
+[17.03.2017 13:42:26] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:44:50] KSPI axAction (admin): add_edit_timeSheetEntry
+[17.03.2017 13:44:51] KSPI axAction (admin): reload_activities_options
+[17.03.2017 13:44:52] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:45:07] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:45:07] get_best_fitting_rate - using default rate 0.00
+[17.03.2017 13:45:07] KSPI axAction (admin): budgets
+[17.03.2017 13:45:07] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:45:08] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:45:08] get_best_fitting_rate - using default rate 0.00
+[17.03.2017 13:45:08] KSPI axAction (admin): budgets
+[17.03.2017 13:45:08] KSPI axAction (admin): bestFittingRates
+[17.03.2017 13:45:08] KSPI axAction (admin): budgets
+[17.03.2017 13:45:09] KSPI axAction (admin): budgets
+[17.03.2017 14:13:30] KSPI axAction (admin): reload
+[21.03.2017 17:38:53] login: root as user
+[21.03.2017 17:39:04] login: root as user
+[21.03.2017 17:39:12] login: root as user
+[21.03.2017 17:39:18] login: root as user
+[21.03.2017 17:39:29] login: admin as user
+[21.03.2017 17:39:37] login: admin as user
+[21.03.2017 17:39:44] login: admin as user
+[21.03.2017 17:39:48] KSPI axAction (admin): securityWarning
+[21.03.2017 17:39:53] KSPI axAction (admin): refreshSubtab
+[21.03.2017 17:39:53] KSPI axAction (admin): refreshSubtab
+[21.03.2017 17:39:53] KSPI axAction (admin): refreshSubtab
+[21.03.2017 17:40:06] KSPI axAction (admin): createUser
+[21.03.2017 17:40:07] KSPI axAction (admin): refreshSubtab
+[21.03.2017 17:40:08] KSPI axAction (admin): editUser
+[23.03.2017 06:35:32] -- begin install ----------------------------------
+[23.03.2017 06:35:37] -- installation finished without error ------------
+[23.03.2017 06:35:53] login: admin as user
+[23.03.2017 06:35:58] KSPI axAction (admin): securityWarning
+[23.03.2017 06:37:05] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 06:37:05] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 06:37:06] KSPI axAction (admin): reload_activities_options
+[23.03.2017 06:37:07] KSPI axAction (admin): bestFittingRates
+[23.03.2017 06:37:07] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 06:58:47] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 06:58:47] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 06:58:49] KSPI axAction (admin): reload_activities_options
+[23.03.2017 06:58:50] KSPI axAction (admin): bestFittingRates
+[23.03.2017 06:58:50] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 06:58:51] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 06:58:51] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 06:58:51] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 06:58:51] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 06:58:52] KSPI axAction (admin): reload_activities_options
+[23.03.2017 06:58:53] KSPI axAction (admin): reload_activities_options
+[23.03.2017 06:58:53] KSPI axAction (admin): bestFittingRates
+[23.03.2017 06:58:53] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 06:58:54] KSPI axAction (admin): bestFittingRates
+[23.03.2017 06:58:54] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:04:18] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:08:13] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:08:14] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:08:15] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:08:16] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:08:16] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:08:17] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:08:17] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:08:18] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:08:18] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:08:18] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:08:19] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:08:20] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:08:20] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:08:21] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:08:21] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:19:21] KSPI axAction (admin): securityWarning
+[23.03.2017 07:20:47] KSPI axAction (admin): credits
+[23.03.2017 07:20:57] KSPI axAction (admin): prefs
+[23.03.2017 07:21:35] KSPI axAction (admin): editPrefs
+[23.03.2017 07:22:05] KSPI axAction (admin): refreshSubtab
+[23.03.2017 07:22:06] KSPI axAction (admin): refreshSubtab
+[23.03.2017 07:22:06] KSPI axAction (admin): refreshSubtab
+[23.03.2017 07:22:10] KSPI axAction (admin): reload
+[23.03.2017 07:22:16] KSPI axAction (admin): reload
+[23.03.2017 07:22:56] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:22:56] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:22:58] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:22:58] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:22:58] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:22:58] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:22:59] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:22:59] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:22:59] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:22:59] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:23:00] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:23:00] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:23:00] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:23:02] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:23:02] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:23:16] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:23:16] timeEntry_create
+[23.03.2017 07:23:17] KSPI axAction (admin): reload_timeSheet
+[23.03.2017 07:23:59] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:24:00] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:24:04] KSPI axAction (admin): record
+[23.03.2017 07:24:05] KSPI axAction (admin): reload_activities
+[23.03.2017 07:24:06] KSPI axAction (admin): saveBuzzerPreselection
+[23.03.2017 07:24:06] KSPI axAction (admin): reload_timeSheet
+[23.03.2017 07:24:06] KSPI axAction (admin): saveBuzzerPreselection
+[23.03.2017 07:24:12] KSPI axAction (admin): stopRecord
+[23.03.2017 07:24:12] KSPI axAction (admin): record
+[23.03.2017 07:24:13] KSPI axAction (admin): reload_timeSheet
+[23.03.2017 07:24:14] KSPI axAction (admin): reload_timeSheet
+[23.03.2017 07:24:14] KSPI axAction (admin): saveBuzzerPreselection
+[23.03.2017 07:24:14] KSPI axAction (admin): reload_activities
+[23.03.2017 07:24:15] KSPI axAction (admin): saveBuzzerPreselection
+[23.03.2017 07:24:19] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:24:20] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:24:39] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:24:40] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:29:25] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:43:42] KSPI axAction (admin): stopRecord
+[23.03.2017 07:43:43] KSPI axAction (admin): reload_timeSheet
+[23.03.2017 07:43:50] KSPI axAction (admin): setTimeframe
+[23.03.2017 07:43:50] KSPI axAction (admin): startRecord
+[23.03.2017 07:43:50] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:43:51] KSPI axAction (admin): reload_timeSheet
+[23.03.2017 07:43:52] KSPI axAction (admin): stopRecord
+[23.03.2017 07:43:53] KSPI axAction (admin): reload_timeSheet
+[23.03.2017 07:43:59] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:43:59] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:43:59] KSPI axAction (admin): add_edit_timeSheetEntry
+[23.03.2017 07:43:59] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:44:00] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:44:01] KSPI axAction (admin): reload_activities_options
+[23.03.2017 07:44:01] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:44:01] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 07:44:02] KSPI axAction (admin): bestFittingRates
+[23.03.2017 07:44:02] get_best_fitting_rate - using default rate 0.00
+[23.03.2017 09:40:47] KSPI axAction (admin): refreshSubtab
+[23.03.2017 09:40:47] KSPI axAction (admin): refreshSubtab
+[23.03.2017 09:40:47] KSPI axAction (admin): refreshSubtab
+[23.03.2017 09:40:55] KSPI axAction (admin): editUser
+[23.03.2017 09:41:52] KSPI axAction (admin): reload_exp
+[23.03.2017 09:41:54] KSPI axAction (admin): reload
+[23.03.2017 09:41:54] KSPI axAction (admin): reload
+[28.03.2017 03:08:02] login: admin as user
+[29.03.2017 01:39:32] KSPI axAction (admin): setTimeframe
+[29.03.2017 01:39:34] KSPI axAction (admin): reload_timeSheet
+[29.03.2017 02:56:42] login: admin as user
+[29.03.2017 02:56:51] KSPI axAction (admin): add_edit_timeSheetEntry
+[29.03.2017 02:56:51] get_best_fitting_rate - using default rate 0.00
+[29.03.2017 02:56:52] KSPI axAction (admin): reload_activities_options
+[29.03.2017 02:56:53] KSPI axAction (admin): bestFittingRates
+[29.03.2017 02:56:53] get_best_fitting_rate - using default rate 0.00
